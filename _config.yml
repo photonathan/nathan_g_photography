@@ -31,7 +31,7 @@ social:
 # If you modify this, also modify the `default.scope.path` key below.
 gallery_dir: "gallery"
 # Any valid value of "background-position" CSS attribute.
-image_position: "left center"
+image_position: ""
 
 ## Jekyll Configuration ##
 defaults:
