@@ -12,7 +12,7 @@ copyright: "Copyright &copy; 2021 - Nathan Goldberg."
 # 1st heading of the site.
 header: "Nathan G Photography"
 # 2nd heading/sub heading of the website.
-subheader: "Photography of all kinds"
+subheader:
 # A description/bio of the website.
 bio: "mail.nathangphotography@gmail.com for pricing and availability"
 social:
