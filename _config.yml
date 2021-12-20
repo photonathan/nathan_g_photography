@@ -10,11 +10,11 @@ copyright: "Copyright &copy; 2021 - Nathan Goldberg."
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "♫ Nathan G Photography ♫"
+header: "Nathan G Photography"
 # 2nd heading/sub heading of the website.
-subheader: "Photography of all kinds, specializing in laboratory locations"
+subheader: "Photography of all kinds"
 # A description/bio of the website.
-bio: "Contact me at mail.nathansprojects@gmail.com for pricing and availability"
+bio: "mail.nathansprojects@gmail.com for pricing and availability"
 social:
   # Your Twitter username.
   twitter_username: ""
